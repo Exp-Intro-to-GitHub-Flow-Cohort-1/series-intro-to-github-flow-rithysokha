@@ -1,1 +1,1 @@
--Hello I am doing something cool!
+Welcome to my GitHub profile!
